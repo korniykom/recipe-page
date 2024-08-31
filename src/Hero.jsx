@@ -13,7 +13,7 @@ export default function Hero() {
         <h1 className="font-youngSerif mb-[24px] text-[36px] leading-[36px] sm:text-[40px] sm:leading-[40px]">
           Simple Omelette Recipe
         </h1>
-        <p className="font-outfit text-[16px] leading-[24px]">
+        <p className="font-outfit text-[16px] leading-[24px] text-[#5F564D]">
           An easy and quick dish, perfect for any meal. This classic omelette
           combines beaten eggs cooked to perfection, optionally filled with your
           choice of cheese, vegetables, or meats.

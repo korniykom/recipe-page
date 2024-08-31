@@ -4,7 +4,7 @@ export default function Instructions() {
       <h2 className="font-youngSerif mb-[16px] text-[28px] text-[#854632]">
         Instructions
       </h2>
-      <ol className="font-outfit list-outside list-decimal pl-[24px] font-[1rem] leading-[1.5rem]">
+      <ol className="font-outfit list-outside list-decimal pl-[24px] font-[1rem] leading-[1.5rem] text-[#5F564D]">
         <li className="mb-2 pl-[16px]">
           <b>Beat the eggs:</b> In a bowl, beat the eggs with a pinch of salt
           and pepper until they are well mixed. You can add a tablespoon of
