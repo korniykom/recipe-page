@@ -6,7 +6,7 @@ import PrepTime from "./PrepTime";
 
 export default function Recipe() {
   return (
-    <main className="h-[2043px] bg-white sm:mx-[76px] sm:my-[128px] sm:h-[1844px] sm:rounded-3xl">
+    <main className="h-[2043px] bg-white sm:mx-auto sm:my-[128px] sm:h-[1844px] sm:max-w-[616px] sm:rounded-3xl xl:h-[1700px] xl:max-w-[736px]">
       <Hero />
       <PrepTime />
       <div className="divide-y divide-[#E3DDD7]">
