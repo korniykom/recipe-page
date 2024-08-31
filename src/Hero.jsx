@@ -1,10 +1,11 @@
+import image from "./assets/images/image.png";
 export default function Hero() {
   return (
     <section>
       <div className="sm:p-10">
         <img
           className="mb-[40px] h-[171px] w-full sm:mb-0 sm:h-[300px] sm:w-[536px] sm:rounded-xl xl:w-[656px]"
-          src="./src/assets/images/image.png"
+          src={image}
           alt="dish"
         />
       </div>
