@@ -4,16 +4,16 @@ export default function Hero() {
     <section>
       <div className="sm:p-10">
         <img
-          className="mb-[40px] h-[171px] w-full sm:mb-0 sm:h-[300px] sm:w-[536px] sm:rounded-xl xl:w-[656px]"
+          className="mb-[2.5rem] h-[10.6875rem] w-full sm:mb-0 sm:h-[18.75rem] sm:w-[33.5rem] sm:rounded-xl xl:w-[41rem]"
           src={image}
           alt="dish"
         />
       </div>
-      <div className="mx-[32px] sm:mx-[40px]">
-        <h1 className="font-youngSerif mb-[24px] text-[36px] leading-[36px] sm:text-[40px] sm:leading-[40px]">
+      <div className="mx-[2rem] sm:mx-[2.5rem]">
+        <h1 className="mb-[1.5rem] font-youngSerif text-[2.25rem] leading-[2.25rem] sm:text-[2.5rem] sm:leading-[2.5rem]">
           Simple Omelette Recipe
         </h1>
-        <p className="font-outfit text-[16px] leading-[24px] text-[#5F564D]">
+        <p className="font-outfit text-[1rem] leading-[1.5rem] text-[#5F564D]">
           An easy and quick dish, perfect for any meal. This classic omelette
           combines beaten eggs cooked to perfection, optionally filled with your
           choice of cheese, vegetables, or meats.
